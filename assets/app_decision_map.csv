@@ -1,0 +1,10 @@
+1,2,5,Are they breathing?,Make sure the airway is clear. Do this by gently tipping their head back so that the front of the throat is extended. Look listen and feel for two breaths in a maximum of ten seconds.
+2,3,7,Any major injuries that would stop them being moved?, Heavy bleeding or broken bones.
+3,8,4,Are they bleeding heavily?, Check for objects embedded; if so do not remove.
+4,9,7,Are there any broken or fractured bones?, Ask first before attempting to touch or move.
+5,6,-1,Call 999 for an ambulance if not done so already,Done?
+6,2,-1,Start CPR immediately,Done?
+7,10,-1,Place in recovery position,Done?
+8,4,-1,Apply hard pressure directly to or around the wound with a cloth,Done?
+9,10,-1,Keep the casualty still and ensure they are kept warm,Done?
+10,-1,-1,Be aware of any changes and call or wait for emergency services,Return to home page
